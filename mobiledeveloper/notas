@@ -3,4 +3,33 @@ index.html
 style.css
 app.js
 
+ionic serve
+
+se recomienda la ultimas 3
+versiones del sistema operativo
+
+copiar la ruta de la carpeta
+agregar un nombre
+y la ruta en variables de entorno
+
+necesitas la ruta de apache
+de jdk
+de tools 
+y de platform tools
+
+ejemplo nombre de variable
+ANDROID_HOME
+JAVA_HOME
+
+etc
+
+tienes que instalar los siguientes paquetes
+ionic
+cordova
+bower
+ngcordova
+
+confirurar el entorno
+de desarrollo
+
 
