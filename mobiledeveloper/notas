@@ -32,4 +32,71 @@ ngcordova
 confirurar el entorno
 de desarrollo
 
+puedes crear un proyecto en blanco
+con tablas
+
+por ejemplo crear un menu
+te diriges a la carpeta
+donde quiere hacer tu app
+
+dspues escribes 
+cd carpeta
+ioninc start
+nobre de la aplicacion sin espacios
+
+para comenzar el proyecto necesito
+elegir una plantilla
+
+proyecto en blanco desde 0
+con barras o con un menu
+
+para ver la aplicacion presionar
+ionic serve
+
+q
+finaliza el programa
+
+para hacer aplicaciones
+necesitas 
+
+descargar 
+instalar
+
+entorno de desarrollo
+para aplicaciones mobiles
+
+jdk multiplataforma herramientas 
+node herramientas runtime
+sdk herramientas
+
+puedes verficar la instalacion en cmd
+
+java -version
+node -v
+ionic -v
+cordova -v
+bower -v
+
+va a devolver el numero de la instalacion
+
+con mkdir crear una carpeta
+cd cambiar directorio
+dir ver directorio
+
+crear 3 pryectos
+1 blanco
+2 barras
+3 menu
+
+buscar la carpeta
+y executar en el navegador
+
+index.html
+contiene las clases
+
+.app views parte funcional
+
+style.css las vistas de la 
+app.js
+usa la structura html
 
