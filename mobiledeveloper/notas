@@ -100,3 +100,49 @@ style.css las vistas de la
 app.js
 usa la structura html
 
+
+developing mobile applications
+you need install and configure the tools
+
+develepment kit
+jkd compiles applications
+example jk8
+
+sdk kit
+contains all neccesary to
+development android apps
+
+node.js
+development kit
+back end development
+
+apache ant
+compilations and
+constructions of the applications
+
+nqc cordova 
+enables control the hardare
+movil with plugins
+
+sdk devlopment studio
+sdk configuration
+select the mobile versions
+
+configure environment variables
+
+crear una carpeta llamada apache ant
+en c
+
+la ruta de entorno es donde el esta la instalcion
+los arhivos bin 
+
+y copia esa ruta de instalacion
+
+en usuario instalar los sigguientes componentes
+
+npm install -g ionic
+npm install -g cordova
+npm install -g bower 
+bower install -g ng cordova
+
+
