@@ -146,3 +146,32 @@ npm install -g bower
 bower install -g ng cordova
 
 
+creacion de proyecto
+
+app blanca
+mkdi dir cd
+
+c/users/user/proyectos  ionic start app1
+app1 = nombre de la aplicacion
+
+ionic serve = es para iniciar la app en un servidor local
+
+el proyecto incluye varios archivos que son esenciales para el funcionamiento 
+de la aplicacion
+
+se defina las funciones
+la estructura y la
+apariencia de la aplicacion
+
+index.html = es la vista principal de la aplicacion
+y de ahi parten las otras vistas
+
+style.css = le da los estilos a la vista
+
+apps.js = se agregan las funciones y la parte logica
+
+
+
+
+
+
